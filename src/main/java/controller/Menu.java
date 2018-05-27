@@ -16,12 +16,6 @@ public class Menu {
 
     public void wyswietlMenu() {
 
-//        Produkt produkt = new Produkt();
-//        Produkt produkt = new Komputer();
-//        Produkt produkt = new Dron();
-//        produkt.rabat();
-//        Komputer k1 = (Komputer) produkt;
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj sposob zapisu plikow");
         System.out.println("1 - JSON");
