@@ -1,0 +1,16 @@
+// {} []
+
+{
+  "imie" : "Wojciech",
+  "nazwisko" :"Musial",
+  "wiek" : 13,
+  "adres": {
+    "ulica" : "Sezamkowa",
+    "miasto" : "Warszawa"
+  },
+  "zainteresowania" : [
+    "sport",
+    "programowanie",
+    "java"
+  ]
+}
